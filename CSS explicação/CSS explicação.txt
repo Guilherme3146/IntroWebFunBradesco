@@ -1,0 +1,11 @@
+COMO FUNIONA O CSS
+
+Para entender como funcionam as regras de CSS, imagine que você tenha uma chave antiga e uma série de portas em um corredor longo.
+
+Primeiro, você seleciona uma porta. Então, você destranca a porta com a chave.
+
+Depois de ter acesso a uma sala, você pode decorá-la como quiser. Você pode pintar as paredes de azul ou definir o piso como sendo de madeira.
+
+Você seleciona uma sala e define as regras sobre como ela deve parecer.
+
+Você pode aplicar o mesmo estilo a várias salas, que é exatamente como funciona o CSS!
